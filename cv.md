@@ -1,4 +1,4 @@
-# Алиса Котикова — резюме
+# Наталья Кошкарёва — резюме
 
 Стек и технологии `Docs-as-Code` `OpenAPI 3.0` `Git` / `CI/CD` `VitePress` `Markdownlint`
 
